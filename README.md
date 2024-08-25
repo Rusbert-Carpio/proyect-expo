@@ -42,7 +42,7 @@ para que el usuario tenga de donde elegir y no se estanque en un solo genero cin
 ![cap4](https://github.com/user-attachments/assets/232f45e8-5e3d-4b23-bb57-f5dc3f6f5e54)
 
 Como usted comprendera las peliculas solo son una fachada y realmente no se pueden reproducir ya que mi objetivo
-con este proyecto es demostrar que puedo adaptarme a las demandas, bubiera sido interesante haberle creado un login y
+con este proyecto es demostrar que puedo adaptarme a las demandas, hubiera sido interesante haberle creado un login y
 vincularle un servidor externo para poder reproducir los titulos pero trate de terminar esto antes de 24 Horas 
 para agilizar mi respuesta a su correo comprendiendo que es un hombre ocupado, pero creo que esto es mas que suficiente hasta
 el momento, gracias por su tiempo y atencion y quedo al tanto de cualquier duda o sugerencia.
