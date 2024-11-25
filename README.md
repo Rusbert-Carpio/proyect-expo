@@ -1,21 +1,13 @@
+Mi nombre es Rusbert Junior Carpio Rosario y en la asignacion de crear una app movil se me ocurrio la idea de realizar una plataforma de peliculas multiplataformas
+para ver peliculas y series el streaming en un servidor en la nube donde utilize la tecnologia React Native y Expo para materializar este proyecto, a continuacion le
+mostrare una tabla donde explique  cuáles son los   principales elementos que tu evaluaria de una app movil para determinar su buen funcionamiento.
 
-Estimado maestro Raydelto,
+Tabla Comparativa:
+![Cuadro comparativo de recursos poéticos de estilo simple rosa](https://github.com/user-attachments/assets/8840f9d2-3313-4a8c-824b-d5a99cc42664)
 
-Mi nombre es Rusbert Junior Carpio Rosario y me gustaría presentarle un proyecto que desarrollé utilizando la herramienta Expo
-de React Native. Aunque no es estrictamente React Native, opté por esta opción debido a que he trabajado anteriormente con React
-en proyectos web, y me pareció interesante demostrar que también puedo manejar otras tecnologías relacionadas. Además, mi equipo
-(PC) no cuenta con los recursos necesarios para emular un dispositivo Android, por lo que utilizar Expo me resultó conveniente,
-ya que me permitió visualizar el avance de mi proyecto de forma remota tanto en dispositivos Android como iOS sin depender 
-exclusivamente de mi computadora.
 
-Como usted podrá imaginar, siendo un estudiante, lamento informarle que no cuento con la experiencia laboral que probablemente
-busca. Entiendo que esta falta de experiencia es una de las mayores barreras para quienes estamos comenzando en este campo,
-y sé que usted comprenderá a lo que me refiero. No obstante, esto no significa que carezca de los conocimientos y habilidades
-necesarias para tener la oportunidad de demostrar mi capacidad. Considero que, aunque es importante estar preparado para 
-cualquier reto, para un empleo destinado a principiantes no se exigiría un nivel de competencias extremadamente avanzado,
-y eso es solo mi opinión.
 
-A continuacio le dejare la documentacion y evidencias de un proyecto que inicie ayer en cuanto puede percatarme de se correo.
+A continuacio le dejare la documentacion y evidencias del proyecto.
 
 ---------------------------------------------------------Muvixfree-----------------------------------------------------------
 
@@ -41,11 +33,7 @@ para que el usuario tenga de donde elegir y no se estanque en un solo genero cin
 ![cap3](https://github.com/user-attachments/assets/bae62e22-084a-44d5-bb29-7e02764b7a7d)
 ![cap4](https://github.com/user-attachments/assets/232f45e8-5e3d-4b23-bb57-f5dc3f6f5e54)
 
-Como usted comprendera las peliculas solo son una fachada y realmente no se pueden reproducir ya que mi objetivo
-con este proyecto es demostrar que puedo adaptarme a las demandas, hubiera sido interesante haberle creado un login y
-vincularle un servidor externo para poder reproducir los titulos pero trate de terminar esto antes de 24 Horas 
-para agilizar mi respuesta a su correo comprendiendo que es un hombre ocupado, pero creo que esto es mas que suficiente hasta
-el momento, gracias por su tiempo y atencion y quedo al tanto de cualquier duda o sugerencia.
+
 
 atentamente,
 
